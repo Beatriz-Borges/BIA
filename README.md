@@ -29,7 +29,7 @@ used, and the data storage is done in an online form through Firebase. This tool
 
 A new Flutter project.
 
-## Getting Started
+---- Getting Started
 
 This project is a starting point for a Flutter application.
 
