@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "658578321269",
+    "project_id": "biaapp-a81e0",
+    "storage_bucket": "biaapp-a81e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:658578321269:android:c6da4d5039f80fd2f82d3c",
+        "android_client_info": {
+          "package_name": "com.example.bia"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWqRwXQkvI1kauOfhJwYywMdxObaKDi4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
